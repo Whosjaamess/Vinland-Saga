@@ -1,15 +1,20 @@
 body{background-color: #C7D1A5;}
 
-div{
+.container{
   
-  min-width:400px;
+  width:500px;
   margin: 0 auto;
   background-color:#7FB4E3;
-  max-width:400px;
+  padding: 20px;
+
 }
 
+.me{
+  width: 100%;
+  height: auto;
+}
 
-h1{font-size:4vw;
+h1{font-size:3vw;
 font-family: Bebas Neue;}
 
 p{font-size:2
